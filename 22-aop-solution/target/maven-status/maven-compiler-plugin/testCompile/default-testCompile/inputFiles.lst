@@ -1,0 +1,16 @@
+/workspace/spring-academy-labfiles/22-aop-solution/src/test/java/rewards/internal/account/AccountTests.java
+/workspace/spring-academy-labfiles/22-aop-solution/src/test/java/rewards/RewardNetworkTests.java
+/workspace/spring-academy-labfiles/22-aop-solution/src/test/java/rewards/CaptureSystemOutput.java
+/workspace/spring-academy-labfiles/22-aop-solution/src/test/java/rewards/DbExceptionTestConfig.java
+/workspace/spring-academy-labfiles/22-aop-solution/src/test/java/rewards/internal/restaurant/JdbcRestaurantRepositoryTests.java
+/workspace/spring-academy-labfiles/22-aop-solution/src/test/java/rewards/internal/StubRestaurantRepository.java
+/workspace/spring-academy-labfiles/22-aop-solution/src/test/java/rewards/internal/restaurant/RestaurantTests.java
+/workspace/spring-academy-labfiles/22-aop-solution/src/test/java/rewards/internal/RewardNetworkImplTests.java
+/workspace/spring-academy-labfiles/22-aop-solution/src/test/java/rewards/LoggingAspectTests.java
+/workspace/spring-academy-labfiles/22-aop-solution/src/test/java/rewards/DBExceptionHandlingAspectTests.java
+/workspace/spring-academy-labfiles/22-aop-solution/src/test/java/rewards/internal/StubRewardRepository.java
+/workspace/spring-academy-labfiles/22-aop-solution/src/test/java/rewards/SystemTestConfig.java
+/workspace/spring-academy-labfiles/22-aop-solution/src/test/java/rewards/internal/StubAccountRepository.java
+/workspace/spring-academy-labfiles/22-aop-solution/src/test/java/rewards/internal/account/JdbcAccountRepositoryTests.java
+/workspace/spring-academy-labfiles/22-aop-solution/src/test/java/rewards/internal/reward/JdbcRewardRepositoryTests.java
+/workspace/spring-academy-labfiles/22-aop-solution/src/test/java/rewards/internal/aspects/RepositoryPerformanceLogTest.java

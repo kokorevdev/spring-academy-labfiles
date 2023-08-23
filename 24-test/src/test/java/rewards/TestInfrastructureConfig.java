@@ -8,7 +8,6 @@ import config.RewardsConfig;
 
 @Configuration
 @Import({
-	TestInfrastructureLocalConfig.class,
 	TestInfrastructureJndiConfig.class,
 	RewardsConfig.class })
 public class TestInfrastructureConfig {
