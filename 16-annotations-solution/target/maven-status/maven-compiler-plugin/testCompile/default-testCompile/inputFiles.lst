@@ -1,7 +1,7 @@
-/workspace/spring-academy-labfiles/16-annotations-solution/src/test/java/rewards/RewardNetworkTests.java
-/workspace/spring-academy-labfiles/16-annotations-solution/src/test/java/rewards/TestInfrastructureConfig.java
-/workspace/spring-academy-labfiles/16-annotations-solution/src/test/java/rewards/internal/StubRewardRepository.java
-/workspace/spring-academy-labfiles/16-annotations-solution/src/test/java/rewards/internal/restaurant/JdbcRestaurantRepositoryTests.java
-/workspace/spring-academy-labfiles/16-annotations-solution/src/test/java/rewards/internal/RewardNetworkImplTests.java
-/workspace/spring-academy-labfiles/16-annotations-solution/src/test/java/rewards/internal/StubAccountRepository.java
-/workspace/spring-academy-labfiles/16-annotations-solution/src/test/java/rewards/internal/StubRestaurantRepository.java
+/Users/robertkokorev/Dev/workshops/spring-academy-labfiles/16-annotations-solution/src/test/java/rewards/internal/StubRewardRepository.java
+/Users/robertkokorev/Dev/workshops/spring-academy-labfiles/16-annotations-solution/src/test/java/rewards/internal/StubAccountRepository.java
+/Users/robertkokorev/Dev/workshops/spring-academy-labfiles/16-annotations-solution/src/test/java/rewards/internal/restaurant/JdbcRestaurantRepositoryTests.java
+/Users/robertkokorev/Dev/workshops/spring-academy-labfiles/16-annotations-solution/src/test/java/rewards/RewardNetworkTests.java
+/Users/robertkokorev/Dev/workshops/spring-academy-labfiles/16-annotations-solution/src/test/java/rewards/internal/StubRestaurantRepository.java
+/Users/robertkokorev/Dev/workshops/spring-academy-labfiles/16-annotations-solution/src/test/java/rewards/internal/RewardNetworkImplTests.java
+/Users/robertkokorev/Dev/workshops/spring-academy-labfiles/16-annotations-solution/src/test/java/rewards/TestInfrastructureConfig.java

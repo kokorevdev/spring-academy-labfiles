@@ -1,5 +1,5 @@
-rewards/internal/account/JdbcAccountRepositoryTests.class
 rewards/SystemTestConfig.class
+rewards/internal/account/JdbcAccountRepositoryTests.class
 rewards/internal/StubRewardRepository.class
 rewards/internal/StubAccountRepository.class
 rewards/DBExceptionHandlingAspectTests.class
@@ -15,7 +15,7 @@ rewards/CaptureSystemOutput.class
 rewards/CaptureSystemOutput$Extension.class
 rewards/DbExceptionTestConfig.class
 rewards/internal/restaurant/JdbcRestaurantRepositoryTests.class
-rewards/internal/account/AccountTests.class
 rewards/internal/restaurant/RestaurantTests.class
 rewards/internal/reward/JdbcRewardRepositoryTests.class
+rewards/internal/account/AccountTests.class
 rewards/LoggingAspectTests.class

@@ -1,5 +1,5 @@
-/workspace/spring-academy-labfiles/42-security-rest-solution/src/test/java/accounts/services/AccountServiceMethodSecurityTest.java
-/workspace/spring-academy-labfiles/42-security-rest-solution/src/test/java/accounts/web/AccountControllerTests.java
-/workspace/spring-academy-labfiles/42-security-rest-solution/src/test/java/accounts/client/AccountClientTests.java
-/workspace/spring-academy-labfiles/42-security-rest-solution/src/test/java/accounts/web/AccountControllerCustomUserDetailsServiceTests.java
-/workspace/spring-academy-labfiles/42-security-rest-solution/src/test/java/accounts/web/AccountControllerCustomAuthenticationProviderTests.java
+/Users/robertkokorev/Dev/workshops/spring-academy-labfiles/42-security-rest-solution/src/test/java/accounts/services/AccountServiceMethodSecurityTest.java
+/Users/robertkokorev/Dev/workshops/spring-academy-labfiles/42-security-rest-solution/src/test/java/accounts/web/AccountControllerCustomUserDetailsServiceTests.java
+/Users/robertkokorev/Dev/workshops/spring-academy-labfiles/42-security-rest-solution/src/test/java/accounts/web/AccountControllerTests.java
+/Users/robertkokorev/Dev/workshops/spring-academy-labfiles/42-security-rest-solution/src/test/java/accounts/web/AccountControllerCustomAuthenticationProviderTests.java
+/Users/robertkokorev/Dev/workshops/spring-academy-labfiles/42-security-rest-solution/src/test/java/accounts/client/AccountClientTests.java

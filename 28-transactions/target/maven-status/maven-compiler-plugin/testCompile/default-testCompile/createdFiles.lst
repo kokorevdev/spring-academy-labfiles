@@ -1,5 +1,5 @@
-rewards/internal/account/JdbcAccountRepositoryTests.class
 rewards/SystemTestConfig.class
+rewards/internal/account/JdbcAccountRepositoryTests.class
 rewards/internal/StubRewardRepository.class
 rewards/internal/StubAccountRepository.class
 rewards/RewardNetworkSideEffectTests.class
@@ -10,6 +10,6 @@ rewards/internal/StubRestaurantRepository$AlwaysReturnsTrue.class
 rewards/RewardNetworkTests.class
 rewards/internal/restaurant/JdbcRestaurantRepositoryTests.class
 rewards/RewardNetworkPropagationTests.class
-rewards/internal/account/AccountTests.class
 rewards/internal/restaurant/RestaurantTests.class
 rewards/internal/reward/JdbcRewardRepositoryTests.class
+rewards/internal/account/AccountTests.class

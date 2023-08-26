@@ -1,7 +1,7 @@
-/workspace/spring-academy-labfiles/44-actuator-solution/src/main/java/accounts/web/AccountAspect.java
-/workspace/spring-academy-labfiles/44-actuator-solution/src/main/java/accounts/web/RestaurantHealthCheck.java
-/workspace/spring-academy-labfiles/44-actuator-solution/src/main/java/accounts/ActuatorApplication.java
-/workspace/spring-academy-labfiles/44-actuator-solution/src/main/java/accounts/web/AccountController.java
-/workspace/spring-academy-labfiles/44-actuator-solution/src/main/java/accounts/web/ActuatorSecurityConfiguration.java
-/workspace/spring-academy-labfiles/44-actuator-solution/src/main/java/accounts/web/RestaurantHealthCheck2.java
-/workspace/spring-academy-labfiles/44-actuator-solution/src/main/java/accounts/web/RestaurantCustomEndpoint.java
+/Users/robertkokorev/Dev/workshops/spring-academy-labfiles/44-actuator-solution/src/main/java/accounts/web/RestaurantHealthCheck2.java
+/Users/robertkokorev/Dev/workshops/spring-academy-labfiles/44-actuator-solution/src/main/java/accounts/web/AccountController.java
+/Users/robertkokorev/Dev/workshops/spring-academy-labfiles/44-actuator-solution/src/main/java/accounts/web/RestaurantHealthCheck.java
+/Users/robertkokorev/Dev/workshops/spring-academy-labfiles/44-actuator-solution/src/main/java/accounts/ActuatorApplication.java
+/Users/robertkokorev/Dev/workshops/spring-academy-labfiles/44-actuator-solution/src/main/java/accounts/web/ActuatorSecurityConfiguration.java
+/Users/robertkokorev/Dev/workshops/spring-academy-labfiles/44-actuator-solution/src/main/java/accounts/web/AccountAspect.java
+/Users/robertkokorev/Dev/workshops/spring-academy-labfiles/44-actuator-solution/src/main/java/accounts/web/RestaurantCustomEndpoint.java

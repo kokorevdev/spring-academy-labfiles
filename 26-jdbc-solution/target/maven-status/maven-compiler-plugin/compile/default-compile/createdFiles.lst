@@ -11,11 +11,11 @@ rewards/internal/RewardNetworkImpl.class
 rewards/internal/restaurant/Restaurant.class
 rewards/internal/restaurant/BenefitAvailabilityPolicy.class
 rewards/internal/account/Beneficiary.class
-rewards/RewardNetwork.class
 config/RewardsConfig.class
+rewards/RewardNetwork.class
 rewards/internal/restaurant/JdbcRestaurantRepository$RestaurantRowMapper.class
 rewards/internal/reward/RewardRepository.class
 rewards/internal/restaurant/RestaurantRepository.class
-rewards/internal/account/JdbcAccountRepository.class
 rewards/Dining.class
+rewards/internal/account/JdbcAccountRepository.class
 rewards/RewardConfirmation.class

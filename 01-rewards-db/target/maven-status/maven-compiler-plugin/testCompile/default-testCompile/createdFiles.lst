@@ -14,6 +14,6 @@ rewards/internal/reward/JdbcRewardRepositoryIntegrationTests.class
 accounts/internal/AbstractAccountManagerTests.class
 rewards/internal/account/JpaAccountRepositoryIntegrationTests.class
 rewards/internal/restaurant/RestaurantTests.class
-rewards/internal/account/AccountTests.class
 rewards/internal/reward/JdbcRewardRepositoryTests.class
+rewards/internal/account/AccountTests.class
 accounts/internal/AccountManagerTests.class

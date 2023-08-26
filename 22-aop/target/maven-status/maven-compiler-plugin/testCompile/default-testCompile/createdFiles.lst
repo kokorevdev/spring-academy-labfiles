@@ -1,11 +1,11 @@
-rewards/internal/account/JdbcAccountRepositoryTests.class
 rewards/SystemTestConfig.class
+rewards/internal/account/JdbcAccountRepositoryTests.class
 rewards/internal/StubRewardRepository.class
 rewards/internal/StubAccountRepository.class
 rewards/DBExceptionHandlingAspectTests.class
 rewards/internal/restaurant/RestaurantTests$StubBenefitAvailibilityPolicy.class
-rewards/internal/StubRestaurantRepository.class
 rewards/internal/RewardNetworkImplTests.class
+rewards/internal/StubRestaurantRepository.class
 rewards/CaptureSystemOutput$OutputCapture.class
 rewards/internal/StubRestaurantRepository$AlwaysReturnsTrue.class
 rewards/internal/aspects/RepositoryPerformanceLogTest.class
@@ -16,7 +16,7 @@ rewards/CaptureSystemOutput$Extension.class
 rewards/DbExceptionTestConfig.class
 rewards/internal/restaurant/JdbcRestaurantRepositoryTests.class
 rewards/TestConstants.class
-rewards/internal/account/AccountTests.class
 rewards/internal/restaurant/RestaurantTests.class
 rewards/internal/reward/JdbcRewardRepositoryTests.class
+rewards/internal/account/AccountTests.class
 rewards/LoggingAspectTests.class

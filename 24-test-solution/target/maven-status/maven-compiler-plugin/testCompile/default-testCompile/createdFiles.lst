@@ -1,11 +1,11 @@
 rewards/internal/account/JdbcAccountRepositoryTests.class
 rewards/internal/StubRewardRepository.class
 rewards/internal/StubAccountRepository.class
+rewards/TestInfrastructureLocalConfig.class
 rewards/internal/RewardNetworkImplTests.class
 rewards/internal/StubRestaurantRepository.class
-rewards/TestInfrastructureLocalConfig.class
-rewards/TestInfrastructureJndiConfig.class
 rewards/StubRewardNetworkTests.class
+rewards/TestInfrastructureJndiConfig.class
 rewards/RewardNetworkTests.class
 rewards/TestInfrastructureConfig.class
 rewards/LoggingBeanPostProcessor.class

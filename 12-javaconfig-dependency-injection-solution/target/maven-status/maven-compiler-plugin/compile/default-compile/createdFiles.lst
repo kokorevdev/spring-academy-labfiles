@@ -7,10 +7,10 @@ rewards/internal/reward/JdbcRewardRepository.class
 rewards/internal/RewardNetworkImpl.class
 rewards/internal/restaurant/Restaurant.class
 rewards/internal/account/Beneficiary.class
-rewards/RewardNetwork.class
 config/RewardsConfig.class
+rewards/RewardNetwork.class
 rewards/internal/reward/RewardRepository.class
 rewards/internal/restaurant/RestaurantRepository.class
-rewards/internal/account/JdbcAccountRepository.class
 rewards/Dining.class
+rewards/internal/account/JdbcAccountRepository.class
 rewards/RewardConfirmation.class
