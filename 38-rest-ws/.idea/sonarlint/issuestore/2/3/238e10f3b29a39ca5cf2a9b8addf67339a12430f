@@ -1,0 +1,17 @@
+
+h	java:S112‡"FDefine and throw a dedicated exception instead of using a generic one.(‚°½Üûÿÿÿÿ8ùÁƒ¤1
+|
+java:S2293Š"YReplace the type specification in this constructor call with the diamond operator ("<>").(³Ã¼“ıÿÿÿÿ8ùÁƒ¤1
+b
+java:S4684<"@Replace this persistent entity with a simple POJO or DTO object.(©ƒªâşÿÿÿÿ8Âƒ¤1
+g
+java:S1172i"ERemove these unused method parameters "accountId", "beneficiaryName".(–†ĞÂùÿÿÿÿ8•Âƒ¤1
+T
+java:S1135e"2Complete the task associated to this TODO comment.(­ïÚ™şÿÿÿÿ8•Âƒ¤1
+O
+java:S1135k"2Complete the task associated to this TODO comment.(ªÏ‰÷8•Âƒ¤1
+X	java:S125x"<This block of commented-out lines of code should be removed.(ğË§›8–Âƒ¤1
+T
+java:S1135w"2Complete the task associated to this TODO comment.(§ª”Àüÿÿÿÿ8–Âƒ¤1
+U
+java:S1135—"2Complete the task associated to this TODO comment.(¢¢ÉÜúÿÿÿÿ8œÂƒ¤1
