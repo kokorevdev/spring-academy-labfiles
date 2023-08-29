@@ -8,9 +8,11 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
+import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 import rewards.internal.account.Account;
 import rewards.internal.account.Beneficiary;
 
+import java.net.URI;
 import java.util.HashMap;
 import java.util.List;
 
@@ -36,11 +38,6 @@ public class AccountController {
 	/**
 	 * Provide a list of all accounts.
 	 */
-	// TODO-02: Review the code that performs the following
-	// a. Respond to GET /accounts
-    // b. Return a List<Account> to be converted to the response body
-	// - Access http://localhost:8080/accounts using a browser or curl
-	//   and verify that you see the list of accounts in JSON format.
 	@GetMapping(value = "/accounts")
 	public List<Account> accountSummary() {
 		return accountManager.getAllAccounts();
@@ -49,11 +46,6 @@ public class AccountController {
 	/**
 	 * Provide the details of an account with the given id.
 	 */
-	// TODO-04: Review the code that performs the following
-	// a. Respond to GET /accounts/{accountId}
-    // b. Return an Account to be converted to the response body
-	// - Access http://localhost:8080/accounts/0 using a browser or curl
-	//   and verify that you see the account detail in JSON format
 	@GetMapping(value = "/accounts/{id}")
 	public Account accountDetails(@PathVariable int id) {
 		return retrieveAccount(id);
@@ -63,10 +55,9 @@ public class AccountController {
 	 * Creates a new Account, setting its URL as the Location header on the
 	 * response.
 	 */
-	// TODO-06: Complete this method. Add annotations to:
-	// a. Respond to POST /accounts requests
-    // b. Use a proper annotation for creating an Account object from the request
-	public ResponseEntity<Void> createAccount(Account newAccount) {
+	@PostMapping("/accounts")
+	@ResponseStatus(HttpStatus.CREATED)
+	public ResponseEntity<Void> createAccount(@RequestBody Account newAccount) {
 		// Saving the account also sets its entity Id
 		Account account = accountManager.save(newAccount);
 
@@ -84,14 +75,13 @@ public class AccountController {
 	 *   http://localhost:8080/accounts/1111.
 	 */
 	private ResponseEntity<Void> entityWithLocation(Object resourceId) {
+		URI uri = ServletUriComponentsBuilder
+				.fromCurrentRequestUri()
+				.path("/{id}")
+				.buildAndExpand(resourceId)
+				.toUri();
 
-		// TODO-07: Set the 'location' header on a Response to URI of
-		//          the newly created resource and return it.
-		// a. You will need to use 'ServletUriComponentsBuilder' and
-		//     'ResponseEntity' to implement this - Use ResponseEntity.created(..)
-		// b. Refer to the POST example in the slides for more information
-
-		return null; // Return something other than null
+		return ResponseEntity.created(uri).build(); // Return something other than null
 	}
 
 	/**
