@@ -1,0 +1,25 @@
+
+H
+java:S2699R"-Add at least one assertion to this test case.(«Äîæÿÿÿÿÿ
+9
+java:S5786"Remove this 'public' modifier.(Ñâ´‘þÿÿÿÿ
+4
+java:S5786&"Remove this 'public' modifier.(«ô¸Ä
+4
+java:S5786."Remove this 'public' modifier.(èèŠÕ
+3
+java:S5786>"Remove this 'public' modifier.(œ ¾x
+9
+java:S5786E"Remove this 'public' modifier.(ÄÎˆÐøÿÿÿÿ
+9
+java:S5786R"Remove this 'public' modifier.(«Äîæÿÿÿÿÿ
+4
+java:S5786W"Remove this 'public' modifier.(ã…»þ
+4
+java:S5786"Remove this 'public' modifier.(ŽýÛæ
+L
+java:S5838)"1Use assertThat(actual).hasSize(expected) instead.(†¿ÓÄþÿÿÿÿ
+Q
+java:S5838:";Use assertThat(actual).hasToString(expectedString) instead.(Î½ï«
+V
+java:S5838N";Use assertThat(actual).hasToString(expectedString) instead.(ã›¬Éþÿÿÿÿ
