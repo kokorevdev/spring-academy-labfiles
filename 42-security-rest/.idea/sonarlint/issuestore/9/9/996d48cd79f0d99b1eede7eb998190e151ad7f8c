@@ -1,0 +1,27 @@
+
+;
+java:S5786$"Remove this 'public' modifier.(£”€ê8±ŸÉ‡¥1
+;
+java:S5786,"Remove this 'public' modifier.(Ì‡ÌÀ8±ŸÉ‡¥1
+@
+java:S5786;"Remove this 'public' modifier.(ğî«Øúÿÿÿÿ8±ŸÉ‡¥1
+@
+java:S5786J"Remove this 'public' modifier.(½´ì”øÿÿÿÿ8±ŸÉ‡¥1
+@
+java:S5786W"Remove this 'public' modifier.(¸†¹«üÿÿÿÿ8±ŸÉ‡¥1
+;
+java:S5786d"Remove this 'public' modifier.(æÒ‰8±ŸÉ‡¥1
+;
+java:S5786o"Remove this 'public' modifier.(—âÍŠ8±ŸÉ‡¥1
+;
+java:S5786"Remove this 'public' modifier.(‹„õÚ8±ŸÉ‡¥1
+b
+java:S58384"@Use assertThat(actual).isGreaterThanOrEqualTo(expected) instead.(»ô¸³şÿÿÿÿ8²ŸÉ‡¥1
+S
+java:S58386"1Use assertThat(actual).hasSize(expected) instead.(Ø³×…úÿÿÿÿ8²ŸÉ‡¥1
+b
+java:S5838C"@Use assertThat(actual).isGreaterThanOrEqualTo(expected) instead.(»ô¸³şÿÿÿÿ8²ŸÉ‡¥1
+S
+java:S5838E"1Use assertThat(actual).hasSize(expected) instead.(Ø³×…úÿÿÿÿ8²ŸÉ‡¥1
+S
+java:S5838R"1Use assertThat(actual).hasSize(expected) instead.(Ó–Œüüÿÿÿÿ8³ŸÉ‡¥1

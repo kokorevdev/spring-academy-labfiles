@@ -1,0 +1,15 @@
+
+h
+java:S1192"KDefine a constant instead of duplicating this literal "SUPERADMIN" 5 times.(¶€ì‹8´šÛ†¥1
+j
+java:S1192"MDefine a constant instead of duplicating this literal "/accounts/**" 4 times.(¶€ì‹8¼ªŞ†¥1
+c
+java:S1192"FDefine a constant instead of duplicating this literal "ADMIN" 5 times.(Ÿú‚â8´šÛ†¥1
+U
+java:S1611"3Remove the parentheses around the "authz" parameter(±Ÿ ²ıÿÿÿÿ8¾šÛ†¥1
+R
+java:S6437)"6Revoke and change this password, as it is compromised.(Æœîh8ÀšÛ†¥1
+S
+java:S6437*"6Revoke and change this password, as it is compromised.(´î’Ú8ÀšÛ†¥1
+S
+java:S6437+"6Revoke and change this password, as it is compromised.(ŸİŸ8ÁšÛ†¥1
